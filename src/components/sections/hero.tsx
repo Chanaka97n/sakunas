@@ -7,6 +7,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
+import { siteConfig } from "@/config/site";
 import { buttonVariants } from "@/components/ui/button";
 import { Carousel, type CarouselApi, CarouselContent, CarouselItem } from "@/components/ui/carousel";
 import type { Photo } from "@/content/photos";
@@ -57,11 +58,11 @@ export function Hero({ photos }: { photos: Photo[] }) {
         <div className="max-w-3xl">
           <p className="mb-4 font-script text-3xl text-brand-soft sm:text-4xl">Creating timeless memories</p>
           <h1 className="text-5xl leading-[1.05] font-medium sm:text-6xl lg:text-7xl">
-            Wedding Photography <span className="italic">in Sri Lanka</span>
+            Photography <span className="italic">in Sri Lanka</span>
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-white/85 sm:text-lg">
-            Capturing the magic of your special day with artistry and passion — Kandyan weddings, pre-shoots and
-            homecomings, island-wide.
+            “{siteConfig.slogan}” — weddings, graduations, promotional shoots, baby &amp; family sessions and events,
+            island-wide.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <Link

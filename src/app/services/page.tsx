@@ -20,7 +20,7 @@ export default function ServicesPage() {
         eyebrow="Services"
         title="Wedding photography services"
         description={description}
-        photo={getPhoto("homecoming-floral-doors")}
+        photo={getPhoto("wedding-16")}
       />
       <Services />
       <Faq />

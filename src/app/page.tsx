@@ -14,7 +14,7 @@ export default function HomePage() {
       <AboutIntro />
       <FeaturedWork />
       <Services />
-      <Testimonials background={getPhoto("wedding-glass-bridge-reflections")} />
+      <Testimonials background={getPhoto("wedding-37")} />
       <Faq />
       <CallToAction />
     </>

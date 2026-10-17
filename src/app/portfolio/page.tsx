@@ -8,14 +8,14 @@ import { breadcrumbJsonLd, createMetadata, galleryJsonLd } from "@/lib/seo";
 
 const title = "Wedding Photography Portfolio";
 const description =
-  "Browse our wedding photography portfolio — Kandyan weddings, temple pre-shoots, engagements and homecomings photographed across Sri Lanka.";
+  "Browse our photography portfolio — weddings, graduations, promotional shoots, baby & family sessions and events photographed across Sri Lanka.";
 
 export const metadata = createMetadata({ title, description, path: "/portfolio" });
 
 export default function PortfolioPage() {
   return (
     <>
-      <PageHeader eyebrow="Portfolio" title={title} description={description} photo={getPhoto("wedding-glass-bridge-reflections")} />
+      <PageHeader eyebrow="Portfolio" title={title} description={description} photo={getPhoto("promotion-28")} />
       <section className="py-16 sm:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <CategoryNav />

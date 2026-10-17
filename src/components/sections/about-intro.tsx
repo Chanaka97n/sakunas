@@ -9,8 +9,8 @@ import { highlights, stats } from "@/content/site-content";
 import { cn } from "@/lib/utils";
 
 export function AboutIntro({ showLink = true }: { showLink?: boolean }) {
-  const main = getPhoto("wedding-arch-walk");
-  const inset = getPhoto("pre-shoot-temple-pillar-embrace");
+  const main = getPhoto("wedding-30");
+  const inset = getPhoto("wedding-09");
 
   return (
     <section id="about" className="scroll-mt-20 py-24 sm:py-32">

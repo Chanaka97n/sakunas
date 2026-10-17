@@ -94,7 +94,7 @@ export const faqs = [
       "Most couples book 6–12 months ahead, especially for weekends and auspicious dates. Reach out as soon as you have a date — if we're free, we'll hold it for you.",
   },
   {
-    question: "Do you travel outside Kandy?",
+    question: "Do you travel outside Kelaniya?",
     answer:
       "Yes. We photograph weddings island-wide, from Colombo and Galle to Nuwara Eliya, Jaffna and Trincomalee, as well as destination weddings abroad.",
   },

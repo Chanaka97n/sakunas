@@ -15,7 +15,7 @@ export function FeaturedWork() {
           <SectionHeading
             eyebrow="Portfolio"
             title="Moments we've had the honour to capture"
-            description="A collection of cherished moments from Kandyan weddings, temple pre-shoots, engagements and homecomings across Sri Lanka."
+            description="A collection of cherished moments from weddings, graduations, promotional shoots, family sessions and events across Sri Lanka."
           />
         </Reveal>
         <div className="mt-14">

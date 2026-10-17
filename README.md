@@ -1,4 +1,4 @@
-# The Wedded Gallery — Wedding Photography Website
+# Sakuna Wickramasinghe Photography — Website
 
 Next.js 16 (App Router, static generation) · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui (Base UI)
 
@@ -16,7 +16,7 @@ npm run dev                  # http://localhost:3000
 | `npm run build`     | Production build (all pages prerendered as static HTML) |
 | `npm run lint`      | ESLint (Next core-web-vitals + TypeScript rules)      |
 | `npm run typecheck` | TypeScript check                                      |
-| `npm run photos -- <dir>` | Re-optimise photos from a folder of originals   |
+| `npm run photos`    | Re-index photos in `public/WEBSITE` (sizes + blur placeholders) |
 
 ## Project structure
 
@@ -41,14 +41,13 @@ src/
     site-content.ts       Services, testimonials, FAQs, terms, stats
   lib/seo.ts              Metadata + structured-data helpers
 scripts/
-  optimize-photos.mjs     Resizes originals → public/images/gallery
-  photo-sources.json      Maps SEO-friendly slugs → original filenames
+  optimize-photos.mjs     Indexes public/WEBSITE/<CATEGORY>/* → src/content/photo-meta.json
 ```
 
 ## SEO features
 
 - Every page is statically prerendered, with a unique title, description and canonical URL, plus Open Graph and Twitter cards.
-- Each portfolio category has its own indexable URL (`/portfolio/kandyan-weddings`, …).
+- Each portfolio category has its own indexable URL (`/portfolio/wedding`, `/portfolio/graduation`, …).
 - Structured data: `ProfessionalService`, `WebSite`, `BreadcrumbList`, `ImageGallery`, `Service` and `FAQPage`.
 - `sitemap.xml` with image entries, `robots.txt` and a web manifest.
 - Descriptive alt text and SEO-friendly filenames on every photo, plus `next/image` (AVIF/WebP, responsive sizes, blur placeholders, LCP priority on the hero).
@@ -57,13 +56,13 @@ scripts/
 
 ## Adding photos
 
-1. Add an entry to `scripts/photo-sources.json` (`"my-new-slug": "ORIGINAL.jpg"`).
-2. Run `npm run photos -- /path/to/originals`.
-3. Add the slug with its category and alt text to `src/content/photos.ts`.
+1. Drop the original into a category folder in `public/WEBSITE` (`WEDDING`, `GRADUATION`, `PROMOTION`, `BABY`, `EVENT`). Each folder is a portfolio category named after it — a new folder becomes a new category.
+2. Run `npm run photos` — every photo is picked up automatically and numbered per category.
+3. Optional: give a photo descriptive alt text or mark it `featured` in `src/content/photos.ts`.
 
 ## Before launch (TODO)
 
-- [ ] Real phone, WhatsApp, email and social links in `src/config/site.ts`
+- [ ] Real social links in `src/config/site.ts`
 - [ ] `NEXT_PUBLIC_SITE_URL` set to the production domain
 - [ ] Replace the sample testimonials and stats in `src/content/site-content.ts`
 - [ ] Review the terms in `src/content/site-content.ts`

@@ -77,7 +77,7 @@ export function businessJsonLd() {
     },
     areaServed: { "@type": "Country", name: "Sri Lanka" },
     sameAs: Object.values(social),
-    knowsAbout: ["Wedding photography", "Kandyan weddings", "Pre-wedding photography", "Engagement photography"],
+    knowsAbout: ["Wedding photography", "Graduation photography", "Promotional photography", "Baby and family photography", "Event photography"],
   };
 }
 

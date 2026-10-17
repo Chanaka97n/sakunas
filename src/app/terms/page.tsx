@@ -12,7 +12,7 @@ export const metadata = createMetadata({
 export default function TermsPage() {
   return (
     <>
-      <PageHeader eyebrow="Booking" title="Terms & Conditions" photo={getPhoto("kandyan-wedding-doorway")} />
+      <PageHeader eyebrow="Booking" title="Terms & Conditions" photo={getPhoto("graduation-07")} />
       <section className="py-20 sm:py-24">
         <div className="mx-auto max-w-3xl px-4 sm:px-6">
           <ol className="space-y-5">

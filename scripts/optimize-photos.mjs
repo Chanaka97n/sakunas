@@ -1,11 +1,13 @@
 /**
- * Resizes the original camera exports into web-ready JPEGs and records
- * their dimensions + a tiny blur placeholder for next/image.
+ * Records the path, dimensions and a tiny blur placeholder of every photo in
+ * public/WEBSITE for next/image (which resizes them on request).
  *
- * Usage: npm run photos -- /path/to/originals
+ * Usage: npm run photos
  *
- * The slug → original filename mapping lives in scripts/photo-sources.json.
- * Captions, categories and alt text live in src/content/photos.ts.
+ * Each sub-folder of public/WEBSITE is one portfolio category, named after the
+ * folder (WEDDING → "Wedding", /portfolio/wedding). Photos get slugs
+ * <category>-01, <category>-02…
+ * Category order, descriptions, alt text and hero/featured picks live in src/content/photos.ts.
  */
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -13,56 +15,57 @@ import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const sourceDir = process.argv[2];
-if (!sourceDir) {
-  console.error("Usage: npm run photos -- /path/to/originals");
-  process.exit(1);
-}
+const publicDir = path.join(root, "public");
+const sourceDir = path.join(publicDir, "WEBSITE");
 
-const MAX_EDGE = 2400;
-const outDir = path.join(root, "public/images/gallery");
 const metaFile = path.join(root, "src/content/photo-meta.json");
 const ogFile = path.join(root, "public/og-image.jpg");
-const OG_SOURCE = "wedding-hotel-terrace";
-
-const sources = JSON.parse(
-  await fs.readFile(path.join(root, "scripts/photo-sources.json"), "utf8"),
-);
-await fs.mkdir(outDir, { recursive: true });
+const OG_SOURCE = "wedding-01";
 
 const meta = {};
-for (const [slug, file] of Object.entries(sources)) {
-  const input = path.join(sourceDir, file);
-  const output = path.join(outDir, `${slug}.jpg`);
+const folders = (await fs.readdir(sourceDir, { withFileTypes: true }))
+  .filter((d) => d.isDirectory())
+  .map((d) => d.name)
+  .sort();
 
-  const { width, height } = await sharp(input)
-    .rotate()
-    .resize(MAX_EDGE, MAX_EDGE, { fit: "inside", withoutEnlargement: true })
-    .jpeg({ quality: 80, mozjpeg: true, progressive: true })
-    .toFile(output);
+for (const folder of folders) {
+  const category = folder.toLowerCase().trim().replace(/[^a-z0-9]+/g, "-");
+  const files = (await fs.readdir(path.join(sourceDir, folder)))
+    .filter((f) => /\.jpe?g$/i.test(f))
+    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
-  const blur = await sharp(input)
-    .rotate()
-    .resize(16, 16, { fit: "inside" })
-    .webp({ quality: 40 })
-    .toBuffer();
+  for (const [i, file] of files.entries()) {
+    const slug = `${category}-${String(i + 1).padStart(2, "0")}`;
+    const input = path.join(sourceDir, folder, file);
 
-  meta[slug] = {
-    width,
-    height,
-    blurDataURL: `data:image/webp;base64,${blur.toString("base64")}`,
-  };
-  console.log(`✓ ${slug} (${width}×${height})`);
+    const { width, height, orientation } = await sharp(input).metadata();
+    const rotated = orientation >= 5; // EXIF 5–8 swap width and height
 
-  if (slug === OG_SOURCE) {
-    await sharp(input)
+    const blur = await sharp(input)
       .rotate()
-      .resize(1200, 630, { fit: "cover", position: "attention" })
-      .jpeg({ quality: 82, mozjpeg: true })
-      .toFile(ogFile);
-    console.log("✓ og-image.jpg");
+      .resize(16, 16, { fit: "inside" })
+      .webp({ quality: 40 })
+      .toBuffer();
+
+    meta[slug] = {
+      category,
+      src: "/" + path.relative(publicDir, input).split(path.sep).map(encodeURIComponent).join("/"),
+      width: rotated ? height : width,
+      height: rotated ? width : height,
+      blurDataURL: `data:image/webp;base64,${blur.toString("base64")}`,
+    };
+    console.log(`✓ ${slug} ← ${folder}/${file} (${width}×${height})`);
+
+    if (slug === OG_SOURCE) {
+      await sharp(input)
+        .rotate()
+        .resize(1200, 630, { fit: "cover", position: "attention" })
+        .jpeg({ quality: 82, mozjpeg: true })
+        .toFile(ogFile);
+      console.log("✓ og-image.jpg");
+    }
   }
 }
 
 await fs.writeFile(metaFile, JSON.stringify(meta, null, 2) + "\n");
-console.log(`\nWrote ${Object.keys(meta).length} photos → public/images/gallery`);
+console.log(`\nIndexed ${Object.keys(meta).length} photos → src/content/photo-meta.json`);

@@ -3,34 +3,35 @@
  * Update the placeholders marked TODO before going live.
  */
 export const siteConfig = {
-  name: "The Wedded Gallery",
-  shortName: "Wedded Gallery",
-  tagline: "Wedding Photography in Sri Lanka",
+  name: "Sakuna Wickramasinghe Photography",
+  shortName: "Sakuna Wickramasinghe",
+  tagline: "Photography in Sri Lanka",
+  slogan: "We are here to make your precious day a forever memory",
   description:
-    "The Wedded Gallery is a Sri Lankan wedding photographer capturing Kandyan weddings, pre-shoots, engagements and homecomings with timeless, story-driven imagery.",
-  url: (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, ""),
+    "Sakuna Wickramasinghe Photography is a Kelaniya-based photographer capturing weddings, graduations, promotional shoots, baby & family sessions and events across Sri Lanka.",
+  url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://sakunawickramasinghe.lk").replace(/\/$/, ""),
   locale: "en_LK",
   keywords: [
     "wedding photographer Sri Lanka",
-    "Kandyan wedding photography",
-    "pre-shoot photography Sri Lanka",
-    "wedding photography Kandy",
-    "engagement photoshoot",
-    "homecoming photography",
-    "Sri Lankan wedding photographer",
+    "wedding photographer Kelaniya",
+    "graduation photoshoot Sri Lanka",
+    "promotional photoshoot Sri Lanka",
+    "baby photoshoot Sri Lanka",
+    "family photography Sri Lanka",
+    "event photographer Colombo",
+    "Sakuna Wickramasinghe",
   ],
   founded: "2020",
   contact: {
-    // TODO: replace with real contact details
-    phone: "+94 77 000 0000",
-    whatsapp: "94770000000",
-    email: "hello@theweddedgallery.lk",
+    phone: "+94 70 245 4584",
+    whatsapp: "94702454584",
+    email: "sakunawickey@gmail.com",
     address: {
       street: "",
-      locality: "Kandy",
-      region: "Central Province",
+      locality: "Kelaniya",
+      region: "Western Province",
       country: "LK",
-      display: "Kandy, Sri Lanka · Available island-wide",
+      display: "Kelaniya, Sri Lanka · Available island-wide",
     },
     hours: "Mon – Sat, 9:00 AM – 7:00 PM",
   },
@@ -40,7 +41,7 @@ export const siteConfig = {
     instagram: "https://www.instagram.com/",
     youtube: "https://www.youtube.com/",
   },
-  whatsappMessage: "Hi! I'd like to check availability for our wedding photography.",
+  whatsappMessage: "Hi! I'd like to check availability for a photoshoot.",
 } as const;
 
 export const mainNav = [

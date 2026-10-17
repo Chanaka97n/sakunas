@@ -10,7 +10,7 @@ import { getPhoto } from "@/content/photos";
 import { bookingSteps } from "@/content/site-content";
 import { breadcrumbJsonLd, createMetadata } from "@/lib/seo";
 
-const description = `Meet ${siteConfig.name} — a Sri Lankan wedding photography studio known for calm, story-driven coverage of Kandyan weddings, pre-shoots and homecomings.`;
+const description = `Meet ${siteConfig.name} — a Kelaniya-based photography studio known for calm, story-driven coverage of weddings, graduations, family sessions and events.`;
 
 export const metadata = createMetadata({ title: "About Us", description, path: "/about" });
 
@@ -21,7 +21,7 @@ export default function AboutPage() {
         eyebrow="About Us"
         title="Passionate about love stories"
         description={description}
-        photo={getPhoto("kandyan-wedding-garden-balcony")}
+        photo={getPhoto("wedding-21")}
       />
       <AboutIntro showLink={false} />
 
@@ -53,7 +53,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <Testimonials background={getPhoto("wedding-hotel-terrace")} />
+      <Testimonials background={getPhoto("wedding-36")} />
       <CallToAction />
       <JsonLd data={breadcrumbJsonLd([{ name: "About", path: "/about" }])} />
     </>

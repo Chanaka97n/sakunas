@@ -1,207 +1,1262 @@
 {
-  "pre-shoot-ancient-temple-forehead-touch": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoLABAAA4BaJZACdAEVYm5qdE7a4IWAAP6qEMfLoV3DIWpFpw5ktBbBkHT4rysFT6v9GIRYfROBxXEcLWYB6tar3rN7iOC69gkzl2uOwTELbzaLGsniNifqHAAAAA=="
+  "baby-01": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/03.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoLABAAA4BaJbACdH8AgtjLuzQDDedkuAD9rlh2ifNyNUFPjq+L5CtwacKmBFORtc8zIhj4LXcw8v2TJ18sRtT7mEANIJsJooqWTpFUa5r4nNp/aXq6RHo4vg4N19Fj5cFfalqKUP6HCsAA"
   },
-  "pre-shoot-temple-pillar-embrace": {
-    "width": 2400,
-    "height": 1600,
-    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAsAA4BaJZgCdADdhxezxTgAAP6mfjOU5VN1Dx6ckth5srIsXsTz1KxwKaeMvPErn5kEMhSJxwa2Xu1OROiJbeWhxhzud9gSWssVOAAAAA=="
+  "baby-02": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/12.jpg",
+    "width": 4020,
+    "height": 2654,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAsAA4BaJZQAAueMffwSNIAA/phftNadJFTMUsS3Teanx5wKleqWn6RCerKbCMISB29C7iQ5SerFuT6RS3Umf2ynKdR6d0p1rQIqaivdQQUYcyj3TQmwAAA="
   },
-  "pre-shoot-temple-reflection": {
-    "width": 2400,
-    "height": 1601,
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAsAA4BaJYgCdAYwxv6bzC4AAOJ+oKLRq8pgKiJx6OUQ9tMfSiT8O0Q+fAWJjKYLP9SrADsrTLuQ7YAe8leRReQFWPqu7BcHQxl0Snk/uRP3wDqkGo6wLoAAAA=="
+  "baby-03": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/13-Recovered.jpg",
+    "width": 3164,
+    "height": 2500,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAA0AA4BaJbACdAYv1lCvzMtgAP6U/fOe70M0aCOHRXVg0iJqH+8GoNpMSo/vGkBdPssWoNRwo4ACIpVJEZr5ZsRFYWJnxBbO+Mt2XPODluOf2N4s8w2jfiU3QQfPSHsAAA=="
   },
-  "pre-shoot-temple-doorway": {
-    "width": 2400,
-    "height": 1601,
-    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAAsAA4BaJZACdAD1GHpwF5P0AAD+ynGOOMW+LcUKT40a1uLddtpD9lYf2jZAprG21oc8NsRuRelXmi1LP1zgjGV3ZSzuVAzqDCH0zUBv4pNvs9RSsJcPk5wni+61kgwZe48FPwn4z9YQAAA="
+  "baby-04": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/13.jpg",
+    "width": 3164,
+    "height": 2500,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAgCdASoQAA0AA4BaJQBOkBLwThePov+3/FR4AAD+0mJ5vZ8Hv+i9+OHM49mUWgZXJWJJ62SsHU+gLkB17TBhBhdmoqUBlWwrLLbiyIt+VnyrkZ2IAq7pZ7W0cDaFv7q6ruPfNwWU15Vw4iGnS623vF3blFHAAAA="
   },
-  "kandyan-wedding-rooftop-kiss": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoLABAAA4BaJZQCsAD0ofgrM6gA4n7JHt9hbBRnpqCEHAV7MM8qwXZxcFO/sz1kf3eHon/dPxEjSp003oynWXRiEKJ7azt94LHY2iCQyOBZJJevWQKOjRH22h13AAAA"
+  "baby-05": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/155%20copy-Recovered.jpg",
+    "width": 3164,
+    "height": 2500,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAA0AA4BaJbACw7EPDS6RSbCAAP74GWqjUsBi8L2PGJjp1YafPMsu2zcdC8ThYZBdi4jaN/xYc3pgGK5Se0BCRFyO717GVYGsO2aO10/RTLSofOAAAA=="
   },
-  "kandyan-wedding-couple-portrait": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoLABAAA4BaJZQCdAYtfaOgQAAA/gYpcc+QcujxLqVJ7PP4C9jKh7oc7r70A5bJx+kb/UInd3xFT4XOYM2kA9K8EYPNknNotx3hXbdrnkdkP3BFGdbp033VEeLqGbwA"
+  "baby-06": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/KUS00412%20copy.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoLABAAA4BaJaACdADdKLvWOZAAAP7yYjJDX/ihiP5Y7VoOsRX5Ijyc21lSLvWqV015goaPACjMIsr7JVFgNphEim2jGCbc69idl3d6ggAAAA=="
   },
-  "kandyan-wedding-garden-balcony": {
-    "width": 2400,
-    "height": 1600,
-    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJQBOgCP/CEsScAD+t/DR1aPgHRAsmNyXgoOi4jRUD3LF5kKyzOrbLSx2wpTyP1g1CfSHYxKo1mduuF01tIvZ0wMQLIAA"
+  "baby-07": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/KUS00451%20copy.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoLABAAA4BaJYwCdADzvNaj71bAAP7rchmZDuoTvBPbTKpneyu1l3P/m1hnve1dFbV2xZG1GyN3TvSJ1xsLdRz/0Vz36Sh1s92S9hFAAAA="
   },
-  "kandyan-wedding-doorway": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoLABAAA4BaJYgCdADdYreuFcRwAAD+9uVkpInvBL3/gImxLlqLbAzV3a5cF37DlS6xiXCrfbEMLEaVY7UUMIJqPhVXkNY/ZbYynm6Fk2XwD8qkoBjQUAAA"
+  "baby-08": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/MID%20CLOS%20WIDE%203_2.jpg",
+    "width": 2500,
+    "height": 1668,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQAAsAA4BaJbACdAYrmzA4WjIAAP7lt7NBrcP7o8osDp0PowICY/LTWVV7nVeOjFxBWCgPvixlaHM1nMCe3fTrIoZorSQ/9Y5Hanq7S6juywhpfUg3Xqz1t4bo9JSAgDHjJDTCwqgAAA=="
   },
-  "kandyan-wedding-spiral-stairs": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoLABAAA4BaJQBdgMYstQoJXB54AAD+6kzU4MZZlvtcXU6r1r0j6FQCqa3/EirzIHQPj2wKdvdfK59cX36+NatoCNF2N3FXV63vOL9M8khM9XkNrtddoykf5LF7Wdn2hCvMu+JNeqrszWpAAAA="
+  "baby-09": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/MID%20CLOS%20WIDE_1.jpg",
+    "width": 2500,
+    "height": 2910,
+    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoOABAAA4BaJYgCdAYvrVOE+HUd1uAA/r3K8VfEbC+Rm2u2usbb5ImCznEpOA7tnBL7RyhAH4LHGy2yfU2amhpyVQqqXiI/tJXK3SlsaVJOKqguF1tZF6Wuql8bsL5uHk5O1lZ6ZzRyab/Pk//5wTuhag2uol5wwqEmYENhXR/v8AAA"
   },
-  "kandyan-wedding-black-and-white": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoLABAAA4BaJaQAAudRfQGAAAD+9iu35rLJGnpS7BQ1wzXfMjf6+ASLQ2NfkrJmkHBxKp32F96G+EvKVYHknZK9aAA="
+  "baby-10": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK00021.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAgCdASoLABAAA4BaJZQCdMn8IF4siu7hef0CRyQAAP7KqxcG6JQGKGhGqLPO9TsMUxjPgJ+6x6jxuIRYD/SmiIFxOUdD7VZVv9zELn1aTbFpU5zbTcdV2FoN6jDPNxKtBFAA"
   },
-  "wedding-wooden-chalet": {
-    "width": 2400,
-    "height": 1601,
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAA4BaJZgC7AEPEArHYLgAAP7vhzpXhVKBGL04fpPhP+tH/OVNMbol9UQbVvyDIDjbBtrBI5Gm0xCiIcf1zWLbm2NebSwhvfgJTbdZMXP2gAA="
+  "baby-11": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK00049.jpg",
+    "width": 5208,
+    "height": 7808,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoLABAAA4BaJZwAAvogPdPEhcZQAAD+8dKkUukruqrb1DoMmMMgOlyF2jNrQWI5uFE8T0KpS+KxmdQXm5/c0RpI5beQ3NnrKaruO/BxibahAAAA"
   },
-  "wedding-bride-garden-portrait": {
-    "width": 1597,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoLABAAA4BaJQBYdh6ENKrGgAD+1ilos/cNY5idJah1veG7rZrLB1fFXsVjdHgcW2nr84qHL4Ra1DIKghVT814AAAA="
+  "baby-12": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK00055.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoLABAAA4BaJZQCdAEPAV1wAAD+78j6p4iCgn+h1jfuvP3zLFT+tRKzgdyzp5wZ0rAsEtxHAAA="
   },
-  "wedding-colonial-veranda-embrace": {
-    "width": 1598,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoLABAAA4BaJZgCdAD7FjZyfhfJUgD8/XrkPNtgZ6VlmDQRbVAu3kUKFRGN1/Kf+ESEsRRL9wgvMClEL/SvPKh85GUJi5Csma8nb2lF6DtYimLMOBzioH3CswtQAseYu4/5x/vUMwAAAA=="
+  "baby-13": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK00065%20(1).jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoLABAAA4BaJaQAAlul62SIAAD+86SO//tsj4xPS+XhUJzQvwxKG2ZehvEvJkvPUVECRg4ERUKeTPzwh3F2A20BSix0oTdAAAA="
   },
-  "wedding-close-up-romance": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoLABAAA4BaJQBOgCL9HpCpJy0AAP7eLGIY62kOf3I+i3An+es/8ndLhTntEy973TX+oKnDtBmh9zA5+TyxXbRFlvDa1L/vGFwZ4DcKQCqoIbAujYWj4KmfhhHgAA=="
+  "baby-14": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK00161.jpg",
+    "width": 3448,
+    "height": 5168,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoLABAAA4BaJZQCw7ELz8jcSy/w7GiAAP7wi9y5mIzXVTbn41ULhlvPxViFDAv3UXegHfj5mp3cI+lblgbIqQEsY+EFUu/zbFj6z64Dzly204a8HJ5q3bSyTjxsBDz0asahU+CAAAA="
   },
-  "wedding-white-arch-portrait": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoLABAAA4BaJYwCsAEe34JkOnC7AAD8M7R3eWRoNetSo0PozU5K9/WokTTSpa+Hgk4WUNIcZ9gMR3iTEcBCY8jeAh83faMi54WM1vYTXmhL+g7j4AA="
+  "baby-15": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02705.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoLABAAA4BaJZACdAEQdtVl6ZggOcAA/rekxXV+ZcYo5g5Dan1SpanI/mtP24IF2qAhzLBwIvF4Vt38/WvFbs7cH+rFPakaaa5/HNaQC1qA1Eastgkx1T9e8AA="
   },
-  "wedding-arch-walk": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoLABAAA4BaJZQC7AEQXtq3EYIG4AAA/QIac9f/4Y7HcBqEtgj4mNT7P5qnmxsftn3QFFxrEyLOH1NRV9UcHUD7xK+RZEmoZdrUdhpx4NYPEWhhZUuyGIAA"
+  "baby-16": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02714.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoLABAAA4BaJQBWABwtxjyXaqr4APzZNhbw70k+07DgPaYF7+y+988sUU6bwzdecr/Gb84qKOAhCUcV3BQmiq5x3ehbELfQlexE+SJgupTuzAmOig0AAA=="
   },
-  "wedding-candid-laughter": {
-    "width": 2400,
-    "height": 1601,
-    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAsAA4BaJQBOj+ACU2NKa+ogAP7mhvfRRZpl3Y1n7dU4IWGVe1K/XDsjJeYV7WxLi7zkhhICJQYvbFlFKTZsaYsI32JmG8vwSAKAOJ/wAA=="
+  "baby-17": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02757.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoLABAAA4BaJQBOgO4FvfWWCFZgAP7ijWlm9fZz1+uMsjfp8IAUjuWlKsPFYSPu82xXT193amRC9hiVUZG5fO6g3SJ9u2cGBI62iwlnPn/q5pTVCHzTKBlKaYjh8rI8sWVAvgAA"
   },
-  "wedding-lawn-bouquet": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoLABAAA4BaJZACw7Yu5bXz8OtGI+AA/tD2iB+bU9hnTOuUyLih31RSNbCsIbMk2Js77ly24SKZA9xiPO6XVjFY6cFUC2QOc1fDUcicWm2UoQAA"
+  "baby-18": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02766.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAQCdASoLABAAA4BaJQBOgB5NqgpAAOJlq/ioJmoUuISXz+Rh+PBQpxP72x+6FAJlSczVPeFoHPixZdISr9R0wRzRzmLKjis17uuMGXsQ/JQKQ1QjmMZWJ9tBGPcdgAA="
   },
-  "wedding-garden-stroll": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoLABAAA4BaJQAAU5Qsg7lQAP7reHpoTm4gJI08r7tDJHnH7xFyLY5JtEB2IsO3ELH4OMtGwrrlp7JkJdVBconMOpqaHKWALpQaoAAA"
+  "baby-19": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02853.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAQCdASoLABAAA4BaJQBOgBt1UGAAAP7HgI9EMZ8asUrX2mPXm/O/bGA6YxEUS/FGbwfiK/TbqO9IEqbKdyqGjg0FdM3OiU+VwEng+6OL62zEdR2iwcMNmm9c3Z/RBba6AAAA"
   },
-  "wedding-bride-ivy-wall": {
-    "width": 2400,
-    "height": 1600,
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAsAA4BaJYwAAeJIovSIwAD+7yBIYJX/aKQZ7zdzB4PwIDDfclYQal8NFW63gX0h4Cle5hTFgYG6dUvfZ5RC6DcIeE97D/8wS3R9tNP5HaAkAAA="
+  "baby-20": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02954.jpg",
+    "width": 3448,
+    "height": 5168,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoLABAAA4BaJQBOgMWlyZ8C0hwAAAD8+5RX2bCL2Z3sxguM0s8Xlh3YVuGDYl3zK/+YNBwPlwsz48dNRXHYz6Y01IyrbJv1mrRSQF3PC7H3Swx72EfKLdUZwAA="
   },
-  "wedding-hotel-terrace": {
-    "width": 2400,
-    "height": 1600,
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAsAA4BaJZQC06DPkw/jKAAA/q0hCht1ZGWE/ozB5NWa5y/BEa2ZPll6vjrGqnL+bZRIGTR6nRUlWr/96H2WFgAvjt/0eIUVvegHgAA="
+  "baby-21": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK02960.jpg",
+    "width": 3448,
+    "height": 5168,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoLABAAA4BaJQBOgMXrttScTAIifUAA/gjgRN7xztpy34Fvia3OQoelpFwZH2ylhFzpuvPlHLNqSd+t6P0I+AZd7VZ4sv3fPTPYyXSomahUjHCs37BjiR4AAAA="
   },
-  "wedding-glass-bridge-reflections": {
-    "width": 2400,
-    "height": 1601,
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoQAAsAA4BaJZwAApBcBxQAAP7BW3Z3F+kh76N4VEwuQ9XmSE355yT0x5bp6mIAZU3Q9bx4rZzrJVAol9AnYd4fpv47cNQgAogAAA=="
+  "baby-22": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK03726.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoQAAsAA4BaJZACdApgE9ASehkK6+cAAP7zS/VrwPg0+uPsQfbdzM7+2uT1mkIF7BsA945ypGUWmuylg7xKgKt/yqfxhoY3y8FQCo/Pb9iYfxgQq/KUJP5pquUBQ7gAAAA="
   },
-  "wedding-intimate-portrait": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLABAAA4BaJZQCdAEegzBvzXjYAAD+tAmP/EYOhOpdHkw3U5ojRRtXZJk5Gs2xJM0OH3QDs2WQlhhNVsKVtrvFa31cPX97zdxQndLADEk0agoAQ6w5JWAGRrHvSwAA"
+  "baby-23": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK03922.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQAAsAA4BaJbACdH8Agrhzz7nqOQAA/plbgVf+MLWafkFCYxtRn593IbVfIy5gjs53LCI0HcQ+pDHcrZs3oSlLJbUwqsejdWhnFNlLDuHwVtf84Eofhee6RTNbt3CUucum0nnyClgAAA=="
   },
-  "engagement-walk-red-dress": {
-    "width": 2400,
-    "height": 1601,
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAsAA4BaJYgCdAEP1Eng6SAA/vJ633iFe97ZrgaEQZgm//lV8/iBH9TcXB+bRNz7DP6fpEaNas5gzjjsFcogs0GqCT058M6yb7Xahng1mfjc+/0AwAAA"
+  "baby-24": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04260.jpg",
+    "width": 7760,
+    "height": 5176,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAsAA4BaJbACdADR/Aur69gA/r4RuUAFasp4BcUCT+dRjrXkzINz1NrbVyymuJaoThsWvSpzy6NxXjOndUbi4s+iZKxlsbusT7IXAeUblbDWAAA="
   },
-  "engagement-red-gown-portrait": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoLABAAA4BaJbACdAYxFdDSZ85vnCAAAP71Byte77X20xET8T9j+FYoqQUEYANwAWXXZ510d94DNgOnvFfPZ/SqFJMrr8J7eIcjSR8IqWuEiN6gOHIlJiQ2grnouniZg9P6XRj59b930SQAAAA="
+  "baby-25": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04306.jpg",
+    "width": 7411,
+    "height": 4943,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAsAA4BaJbACdAYt9q5/duJGAAD8sW4345plghzP3D+Zs9IKyc8Zl5m0qlwotJgJZd6XCwb91coMARRHU2i23uUhtSX7W3FG5ScOZ4qIk3aN3iwYXwAA"
   },
-  "engagement-playful-embrace": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoLABAAA4BaJbACdAYtBkzy5CVAAAD+9vG/nhvB73Cxv9t+263MDbKfqsm15N/kYlOQdWnizG3wMICgDO1TO/kafdy/U/eo8K2KJmrXRGZkRWxag978PlFVDw4nyf292TgRuGnP7QAAAA=="
+  "baby-26": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04315.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoLABAAA4BaJbACdEf/ggVmDx3EOlAA/qzZ+g/vKPOX+UvCarzQrvisCJB3vDqdYlqNEJWqIE1oZaZlhch1K1lTxRvKqnqYIiyXBPxAx/WDeUDHzTHnqe2uhEXs15jY/l9tGQdfogAAAA=="
   },
-  "engagement-close-up": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoLABAAA4BaJbACdAEPCguOwL6YbAAA/vbgnG3DAmD+KyFk5Q2ncIRCU7tT5Dp3lsyASSHOPLWYNU7he/9775BtaycSac4enuEROc+gDPle/gvJqAUz2pNE8EnISe5NMzwAAA=="
+  "baby-27": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04319.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAA4BaJbACdAELWlIBAGwIAAD2VS3ZLOGnzzLNnktmNQLo7fZfTMKMg362Jse5TdpjgVwjE6gX+MiuonM9qMQGbZhwinH7tuRs/gemt7HJmkODUNMdAAA="
   },
-  "engagement-dip-pose": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoLABAAA4BaJbACdADdFLV0AP73vmRqwiIdqLzClxe4H0UO45e7aUK2r0gGipw3u7M3HUE15zLD6Xfj1SsGdx3QPj+GuiTTSYZ7vb1m8HJs/U1t4aAAAA=="
+  "baby-28": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04437.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoLABAAA4BaJbACdADVy4wAAPqfFDIfEzA8sgaL+5yBjCVWj/HqOhyms7jKuDBa5vfDmSkiXfbBgkTj0lpkOs7rj/+jOvTbmww5VM86EKASYY+ZeT+bgMh8shJebdaF2cj/XSbiChBAAA=="
   },
-  "homecoming-garden-walk": {
-    "width": 1597,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoLABAAA4BaJagCdADdKv2hfdvnnIAA/uXUmU9yCWVaj+SNfU2IAHt5vItZF56FjgWiyhwK7cuke30QtA6Ww642D/fZdlHGttgw7CFhQpteTIPAmW1ShZzGAAA="
+  "baby-29": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04454.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoLABAAA4BaJbACdAYuRc6YPPQA+AgA/cU9YCLTQ6JpybLUujxFex2Fq55duu94cKF4H01msxt/IsjP/UPs3xJs93aizaBH5pnLyD8zLtI/YM9ICPeCMIK9flm/SoAA"
   },
-  "homecoming-lamp-lit-room": {
-    "width": 2400,
-    "height": 1597,
-    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQAAsAA4BaJQBOj+ADMky+MMeujzgA/u2sNAq3mR5kR8FhKLDMdt1GEUQrHeiKh/O/f7dgu6JAyxGoGZMiBlYXVcaS2qd7jiJolQD1ogQcD9wdY0/lY9Z1Poha6ACHUsyKuQfk2OqGAAAA"
+  "baby-30": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04508.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoLABAAA4BaJbACdADz6UHLOwAA/pUL1fiTQ3XiLcBhoJbDHHqhN+gY1J+2hhc0/4CAABfytz7wmGdcvH0hixFJaHbebrRCOiBn3i+SRUkAjWkWU/bdoAAA"
   },
-  "homecoming-french-doors": {
-    "width": 2400,
-    "height": 1602,
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAsAA4BaJYgCdH8AEpdOCfLjAAD+yP4yu/hPMCEmNJJiqDw5uqtV1fyIXmlLk4UFgpo44mfARj0QfBPUurT/6xWpmhch/ZU57fV7HLFWqzv5AAA="
+  "baby-31": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04782.jpg",
+    "width": 3160,
+    "height": 4740,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoLABAAA4BaJZgCdAEDH8mvbhlI2AD+9OWBieiV9EYKh1FWhrABhDtybv9R+plZotT/ZG0Wrk1PaDGXuuxJpGG9Ce0m2701TED3L8ye45qTasbfG6SJM9x5V7TiGkK4EKopcAAA"
   },
-  "homecoming-doorway-embrace": {
-    "width": 1600,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoLABAAA4BaJaACdAywDavFPOBMQAD+rfLoLksf9f9lJYbJshKxvJEAOK60EMBn7v0yuRV3DeLA1hXICmMXvepHbM5JN3tm9zz4nIC7P35Ny+1WUO5Aos8Gek2RRXtv4GAGYAAA"
+  "baby-32": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04815.jpg",
+    "width": 3395,
+    "height": 5092,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoLABAAA4BaJYgCw7ED++cL7VgA/vYTG65nQZB1s/t3m0xUDvRMYky51WKsyJwXa0WmimD4pcesx0j8awAAAA=="
   },
-  "homecoming-floral-doors": {
-    "width": 2400,
-    "height": 1600,
-    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAA4BaJQBOgCPyA4i2jTyoAPeM0vhvGk6JIf0qdD7KQPLfd0lyqco/zPGGAnh++cbmul7WEqhUM/j2fq0V4nhHAWYkeApKxZDwpeYv/IRaxkxSs8XwAAA="
+  "baby-33": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK04968.jpg",
+    "width": 5161,
+    "height": 7737,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoLABAAA4BaJbACdH8AE72gND3JfEAA/vT9xv3tUALpxrbnqYVt51SCAtwrXLRcVzvHoNCfvZ/l1E5Wo3MDUdL8iIwOGh+vXxmedsHumImh6cy0RLgOLUiAocsnO0YiSenNV6gA"
   },
-  "homecoming-bride-armchair": {
-    "width": 1601,
-    "height": 2400,
-    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoLABAAA4BaJbACdAEO6IJsegdAAP72RMuQ+Wg7HZzQRlu4OeJOR6OcSM+ngFBqUEE81frmVx9fI6fCEZW8rI6DJThQSr+G6fkoX/RmmXnA85Y+khs1+pxz4dfz/wAA"
+  "baby-34": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK05207.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoLABAAA4BaJbACdAD0s4fC6X7AAP2XswdG7a02txxDYvz9rozFVNOUMI0I4+dWoOdsziCk6/vXCuLuC4xYT2X/8Gcfs7+TvvhzUZFsTToAAA=="
   },
-  "homecoming-moon-window": {
-    "width": 2400,
-    "height": 1600,
+  "baby-35": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK08238.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAsAA4BaJYgAD46wJuIFEa/MAP7sDUMxkq7t5+7RZTfOH8O474t2AW+cD1RtYccseDkDVKkgEEKT1MkYZ93N6amvawyIJKruM19tIBC5ILxBnCq3uRcqFQKwAA=="
+  },
+  "baby-36": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK08328.jpg",
+    "width": 3448,
+    "height": 5168,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoLABAAA4BaJbACdAYtBa9w9rAAAOJ9l/3LTfZiROLnkM16niqkvcuzyRd0eYSSRZvsC7IFLwmMQJBqP1BtAHhGE+vN9LG7+s+AxN8tqkR4eY+EFV18BFRckwgNz6pkfSEDGsjFeD9z7+AWQAA="
+  },
+  "baby-37": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK08379.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoLABAAA4BaJbACdAYt92WMmVLgaVkAAP5sIqsXIPAdu93R8k5Wda2nsb5cIkwFt6L6nibjEAr32XV1FcNyyLbEWKHdttL5sViqdF804nYbh1tWKeOZpJllV6tlUTYut1O/pEMhClips9hQuxAAAA=="
+  },
+  "baby-38": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK08388.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoLABAAA4BaJbACdAYtA8DW/PNdQAD+7eBIsf3dh1y94bcqiA6mzx1ro2Q2irWowd1aK6bydqOwmB9NLFPFeNftdq9zyxZxoOovNnFzs9Gftjh+djqP2GkDrBSnBIvnDSNRc5cZCiAAAA=="
+  },
+  "baby-39": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK08410.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoLABAAA4BaJaACdADcULteVkwAAP6oxWTP2PI9yJ6R6a31nr0B/ppIgNHkBwF1Y+goumQG1kFZdePAGSm8KBBhimMYOqbvJ4wP6J9i+RVha5bXb2LyXGevRBM6a8gHyWiii8klhAAAAA=="
+  },
+  "baby-40": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/SAK08450.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAsAA4BaJZACdAYv/dYt7cSAAP7BtQaHXnF6Klayw+Oyi0flbdzad4ysqVj4QLcbJ+VmCKdcI+xTBG46/2zahwKCQ/73+eq/tc7qQZUcwgM8SkGkaAAA"
+  },
+  "baby-41": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/Untitled-4_1.jpg",
+    "width": 3492,
+    "height": 2500,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAsAA4BaJaACdAYu5vuzy3DaAAD+43OtbCFZV8GUBj4Fj/eNpuuemUMav1AmnzyBfcyMgOvJ4Cbn2jAWHxIrjESuH4XhWYvS2iG8vNwHeVXX2q8zoyQqyChM+UDx5Xz6lbUQAAA="
+  },
+  "baby-42": {
+    "category": "baby",
+    "src": "/WEBSITE/BABY/Untitled-22%20copy_1.jpg",
+    "width": 2500,
+    "height": 2910,
+    "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoOABAAA4BaJaACdAYrnlNADSY0WoAAAP6IxttuXCAxDbqr3OJt8JHZAItu65oHLw7MtuKVUumBnpaeZqdm/Xy/HddAt7WsFKKJg3tvSRXvgevTMJxLiCDDTJONx+hReKncfHt9I6aCv8SS0bNgxrBHEO1xmfHyN21LAy5igAA="
+  },
+  "event-01": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/_DSC9422.jpg",
+    "width": 3515,
+    "height": 5272,
+    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoLABAAA4BaJbACdACzbBQei8AA/rfedY7VScaWKXFMYVd4Sy/tSkCyUmSmNtu2bRYmAHezi72+3Ri5GemmWFAktyv6bEhHPkz81XY5OtJMk/1XxGkzCYXvs4BkFx43ZSDXe/f6XO9SFXcDtI4wAAAA"
+  },
+  "event-02": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/_DSC9760.jpg",
+    "width": 3666,
+    "height": 5499,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoLABAAA4BaJbACdADcJzKz0RnAAP1Tt8ITn304hHQQSkj3t2i7MnY3+YklFfy2rpfv57u30XA7b5IsN/r19x682fzfLk6/GDlwW6d3zsFOk9XImqfMk06GGu/CeA9+TfC2qK2x6XcskU9C4AAAAA=="
+  },
+  "event-03": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/_DSC9812.jpg",
+    "width": 5678,
+    "height": 3785,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQAAsAA4BaJQAB8n4eiuNW5tAA/rxqbZ3wPfgFeZf+szo2efHQCZ1WNVLqIOWMlS835i8iC8PzA+qWrnpBDhFQK1/s/TDTvpHC94a/+kDHdMNmAJWvCzOcGU/WvZAAAAA="
+  },
+  "event-04": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/_DSC9825.jpg",
+    "width": 5804,
+    "height": 3869,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAsAA4BaJbACdAC3qvA8886AAPVrYqmbKvWWZzLCMHCI+8iDCmgHV96G1f+uloKnGizQ6BSNdgbDszuSmXb22VtBqX+U0wHBdJIRSDDvSDYoKayjmGEsevaCSeyKebk6v4nMCDsA8yAA"
+  },
+  "event-05": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/_DSC9827.jpg",
+    "width": 3858,
+    "height": 5787,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoLABAAA4BaJbACdADdqX5AjAAA+OK5xuLNfBEBrs7D2kZEQ2yaPFPY6R5Zw3mUr2/l1lI0/3XnyS3awMctuRKFngyrXR0UHg+KyNfFolBuTvTvEdAbsNg/Adlzb0976B+/g4U8CT53oAI5kn2+OpRAAAA="
+  },
+  "event-06": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_4989-2.jpg",
+    "width": 3880,
+    "height": 2587,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAQCdASoQAAsAA4BaJbACdAYubSzJBAD9U+SKHg2UJX3RcHwiUdgNgmM0U33v/305Z+d9RNgC7DiwvOZXfpHtJ5qFh5romGBa+LaJLe6h/pqJhjyeySq+da+vmfuJLgdXjkJGlpsQDQUzIXaqkPMviAAAAA=="
+  },
+  "event-07": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5078.jpg",
+    "width": 2624,
+    "height": 3936,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoLABAAA4BaJbACdAEVYmxal4m1AAD+1LCuyfr8HgHgeQd6bs00RxPbKsGI/Jsjc2y6nO+ntFDO4qrTFps0+Wqc8WkSQZKSPmcXn6ui+iAAAA=="
+  },
+  "event-08": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5162.jpg",
+    "width": 3616,
+    "height": 2274,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQAAoAA4BaJZACdAEecbyivmjUAAD+0zll59yVzLVvebwuil46qs3ndrLvIK/ahUUIjrZs8IML6DwcdUmuTFAfbKdUQNBhXn4IiJcpLLhqa9gA"
+  },
+  "event-09": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5176.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoLABAAA4BaJZACdAEKj2dTOygAAP70075YYPsVHipuTqhHSFlEQAyjY+etR6239+7C4zNfNgowupXfh9RQu2Jbm2M+Xhy1AAA="
+  },
+  "event-10": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5189.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoLABAAA4BaJbACdAEUm4yuZ0AA/ryemsqEES94O/VOgf89mENV4245ODeZ3Ae0pkoJwGTBSgezksHfLAyDcTWPrTZ6MmKo8f0jTXDT07nln+vYIT7z90UtbrYBH96YGvYuBJAA"
+  },
+  "event-11": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5205.jpg",
+    "width": 6048,
+    "height": 4024,
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQAAsAA4BaJbACdDiAN5LA+pDSukAA/sIs+qfEhV+DWCi4vNcQYRGQ1OIk/oS5rUzl6q1pfY7OHRIh1RpaPLT8hgjXCdS0QMmneg1F8tsFv9ClRUfXuEXt+ReEbwcbpI9QicGF4BN/szW89IPNEuaeIQAAAA=="
+  },
+  "event-12": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5214.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoLABAAA4BaJbACdAECv0efXqLgAP5bjVRlVrkT7nTr0hmxrEznYiLzbztDsJ3arjpn2CM0fdaYO2WIenn0LIlMVh19kZ5wiqiWwn6y5L5Ki64sSD3ZwvDKt96MGXmAl/rfTz5xGlR72Fxb2rkz66VgAAA="
+  },
+  "event-13": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC_5238.jpg",
+    "width": 6048,
+    "height": 4024,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoQAAsAA4BaJbACdAYxFMDF9jb8VgAA/ppVrTZTSaPKxTQo9ydcj9zMGntp2gxJxv5LKKP9uvzg/SxYzhVOFcz9e9esuzai+b0rkZmzsOC43QjgsRRrKZloMdt9Bi3NMCv0vvtO7B74/edvy3XDcpwUsAA="
+  },
+  "event-14": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC01700.jpg",
+    "width": 3072,
+    "height": 4608,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoLABAAA4BaJQBOkCYwWReoPzr6zOxNAAD+2FZNQXbUzqGple6nIhr6Wx3JNJoOIlJQs6aZ5MeTG8cj0zAxfg2yO8WAsMEDUDCh3l7ZKbRq+nA9ETXThyUCavsYAAAA"
+  },
+  "event-15": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC07835.jpg",
+    "width": 4398,
+    "height": 2932,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoQAAsAA4BaJagCdFkAAYkRV/iKG15AAP7mQ0JvzJdLnBKJAm8Dfn2GtGBYr5TwFK1v6jZmZu0SZgCsjVFiT6hz3Eix7wMIBICGxurfrRBX3F7sq3Sv3mGIHjq+2Ofi/0NN+6nylj3ezJloC/DgfqDAAAA="
+  },
+  "event-16": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC07850.jpg",
+    "width": 4608,
+    "height": 3072,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAsAA4BaJbACdAEaM/YBMEtPUAD++JObUxNMggnG9WIzpPHUDB8WTSHyRcV3GrkO82oqzXKw6yb2+Na4LNOznaxvHqsWWMj4K9EkAlwVBbknfaxoF3SGnaZ9+eR1pMXwOjqAAAA="
+  },
+  "event-17": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC07899.jpg",
+    "width": 4608,
+    "height": 3072,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJbACdAEUpTKnn8slAAD+8Yau5xnQyAiISz/vDYoxFb/JGGbOnRUg63ZfFfR361wdSMnkpUWzTXqrKUTbIkpyZWZnA31YmE+mELwqrgLS6p2wwjSAAA=="
+  },
+  "event-18": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC08017.jpg",
+    "width": 4608,
+    "height": 3072,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAsAA4BaJbACsADp9Pdv2SnIAP75FzjYDkJsfsth772CyRQ7wDQOv8VmS05VwD7sNfxA3kjKLGlpptpHUZvQ0Sd7kDsYXCKXXm5hFRkuabEAOyVLgAAA"
+  },
+  "event-19": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/DSC08025.jpg",
+    "width": 4608,
+    "height": 3072,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQAAsAA4BaJbACdAEYG686wWEjPAD+99SJBU2NTj+qYi5eJm6CxDuG+FRLIvsdF2gHWYz0I12P7J2/THe2Pyje+3PdsknTLFDSlUByyahl0cc1fusw3dBmDGzv5lmaF0+8Vk2wjVqW4eAA"
+  },
+  "event-20": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/PAS05343.jpg",
+    "width": 3797,
+    "height": 2531,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJbACdAC82AQVQRQAAP2TrFR/UKzKuJBbVy7rXHl3Ec46I+P44eVP3OeUWvc/dwDxXm8EQeV+HbKxgjL0M+3AUTBzfTQDhz+4cgxsWXZnySLPCB6bDuAA"
+  },
+  "event-21": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/PAS05354.jpg",
+    "width": 5810,
+    "height": 3873,
+    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQAAsAA4BaJbACdH8AFx++zyFPqzAA/cQ3wjy327Ht2+5V35MNQpH8hokpY30xgarTmcSQND/Tzh2tDcG9YJ10mhtQkOO/goSyXiLrLaP/ldbT0M97+HRLzqEdbPuWoS3HcUnRkXPifAssrjoGP4AA"
+  },
+  "event-22": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/PAS05393.jpg",
+    "width": 2477,
+    "height": 3716,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoLABAAA4BaJbACdH8AE7hzAHCBY2AAzj5OYG5HiifdcPfKHV25hto4ap8LXsbpl/RvK6/FSCaM0HVCUDl0tzBqsjv/7VQlkTORPqpg77DlxLTjJ+0A80NKnZOUSmATqM+77bNpFGDhukAA"
+  },
+  "event-23": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/PAS05434.jpg",
+    "width": 2624,
+    "height": 3936,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoLABAAA4BaJZgCdAD7Fl9P1a/YAP6x88DSVQs9uABd1bdexcLTwtatt1AJxsWywX6rQjabYyCnrDRIpxJoIENtaY9sUnVUQ9fKvyqW4SWLz1tQHWy/dmUPRClbc5YHyEno8dNwl4AAAA=="
+  },
+  "event-24": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/PAS05473%20(2).jpg",
+    "width": 2270,
+    "height": 1513,
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoQAAsAA4BaJbACdH8AgmyqxlIrNtAvwAD+0OeFxC4tOc/CIcUk60CigqXgAycEaIs1oCkSrcCY3zacgJrn3IQhYbAMAaNMC9n4uIkgSg5jSRKbbnfu/CeNNZsrtg5uMBIj9AcJuNeojwtqXGuBggrygVAAAA=="
+  },
+  "event-25": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/SAK06451.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoLABAAA4BaJYgCdAYwxzlXdskg994EAAD+79dIn7HsyxbP9xEI8l+JFoit+525VA6rW26oQUnmHhbKfgAqCDpNVDtDnyG3wMhgiiyAPH3hb2ynLNx1B8LeL1oiHHtRB73QAA=="
+  },
+  "event-26": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/SAK06575.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAsAA4BaJagCdAEPh73zrZDLAAD+78V2yl0L7jr1LbGyWfxELB8szL86DjNguZk7HNseAhFo/SmqpUGcLl9DicMox/DaGncJu+GiYv1DY7eOFfTr1gX5n3ECWgAA"
+  },
+  "event-27": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/SAK06607.jpg",
+    "width": 5168,
+    "height": 3448,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAsAA4BaJZgCdADPmTEQJYAA/u1hFhBZXxlMXeY5UQk4TyiJTrEJU0r/JXiP1PNU3hFPYD969VTZAThP76FsND2NNGt2BSLurDAnybgAAA=="
+  },
+  "event-28": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/SAK06724.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAsAA4BaJQBOgCG5tsGdAAD+8d7ReNg4Vs7ej+1l7XSDqEXtPSj4TeWfQMW1/hiYxdzRKTHDvafJlDt+RMgdBS9ZEos7Ao77S5+OtSgAAA=="
+  },
+  "event-29": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/WEP_9703.jpg",
+    "width": 4366,
+    "height": 2908,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAsAA4BaJZQC7ADGfVi5k+AA/rfHyYc4sgZzjbdkklnuc2T+Z6w98XKIkGk4ySdU7eu2d0WGiiHnzccHo1rVITM6yOfwAb3E4KWW75wTKwhuSEhIUsAA"
+  },
+  "event-30": {
+    "category": "event",
+    "src": "/WEBSITE/EVENT/WEP_9747.jpg",
+    "width": 4528,
+    "height": 3016,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAsAA4BaJbACdAEeu5iL+1uuQAD+5Gl1JvpEOnPlkbvaoYPDPlbdkOuZ++k/z+06NIZATwL6kz+9IuO0zsRhjg+/rFFm83kZQMMigMgEmfDgAAA="
+  },
+  "graduation-01": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1421.jpg",
+    "width": 3958,
+    "height": 5949,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoLABAAA4BaJQBdgBu2V5lZUdHzwAD+7bArOSsW2ow9qcMPs5m4xBnDy4jGkhDcHQyY/ngOgnppXsJPeGV6Q52WJYjWb5eU7LjErrUrk0UOomDMaJMHi4o6WgASlblUrCYMAAAA"
+  },
+  "graduation-02": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1462.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoLABAAA4BaJZQAAqsbzLqc9L2AAP6jaDrk0Zi2Bcrh9j2BXnza5+cvttwQ43lvz6NcfmT2j/H6Mrx9xQDU1Z3WAYm/bgLT7wi9uckD7DXTHrzBsCaF8ApSZAAAAA=="
+  },
+  "graduation-03": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1481_1.jpg",
+    "width": 6048,
+    "height": 4024,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAsAA4BaJZQAAsQlA0kaEB4AAP5sn3ik72Tnu+h2E3fbhnLXpY8gNMHHp0jcTY2c8StXdQqYMW6Yai+V5HcEm6RAYN7vsDUfeyFpi1K5yxn68lRAAA=="
+  },
+  "graduation-04": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1481.jpg",
+    "width": 6048,
+    "height": 4024,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAsAA4BaJZwAArIen8l8cgAA/m0i09d67Jbt4npiP5gG9QJ8kT1OI415ndhyiB86cH+hhX/u+K/kLcSzQrSkZZls9f8xOwfOUAPAAAA="
+  },
+  "graduation-05": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1578.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoLABAAA4BaJQBOgMXmtmP2V7sIAAD9a19LflMh1n+Lol5Ee69bwo8pqPJ755QY+dxC9Q1Lx08YocPyKF+QWUOjU7pwDSgABNVOfPFueJ2ZvaWtHK/Il0i9DQsb9ePGc/dc7e2abSAAAA=="
+  },
+  "graduation-06": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1666_1.jpg",
+    "width": 6048,
+    "height": 4024,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAsAA4BaJZwC7ADGRNOtgAAA/uJ0ov3y5mWQSSw331zbyGPyi4WQv8f6EuRwP2lZRWWBKOtbU/VLLeJCs+fW8nptSHHBWg2orfADYxgAAA=="
+  },
+  "graduation-07": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1666.jpg",
+    "width": 6264,
+    "height": 4168,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAsAA4BaJYwC7AEKldKFo8AA/sqVJ8E0j315+mKx9NagO60CDrYddcNGc7d9sjdw8yJ68O4BCmXGNiZjkXhEyJNu4L9W+ADFlRmRtrHxdBHcJzl8zMi0IVAAAA=="
+  },
+  "graduation-08": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC_1782.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoLABAAA4BaJZQC7AD0ikKUPwP5TgAA/uhsoVkUdaYckFr5sCJfsVVWR3N6uluebNqhK6aeUXXZOrPhGyrP3m9G6c13vkAA"
+  },
+  "graduation-09": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC06496.jpg",
+    "width": 2917,
+    "height": 4375,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAQCdASoLABAAA4BaJaACw7Dyg2z0AAD+9knf44oo+6g67JtFQVqU92HVUkRu22/JyIQz9vPr5Sn7P7T4REIROJ2C1PjtzsJLS1p1Ue1i3tg500fdt/3Q+7Q1iIoHaKyumqoQCCymSaGRNsAAAA=="
+  },
+  "graduation-10": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC06535.jpg",
+    "width": 4608,
+    "height": 3072,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJZACdAELl/CKa+MgAP7oqp2v/7o50kFnG4hWMJeMOoJ7OO2CWg+6r5RJOOz9ysg8NEv3v52DfJBnjdVTEzADF56vlu4QtQvXk4J4WSR3THwg5tOH+AAA"
+  },
+  "graduation-11": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC06542.jpg",
+    "width": 4523,
+    "height": 3015,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAsAA4BaJQBOj+AC+H1foeTTQAD++BVmPrU9kTfonT862jwVOO2fW3hWuKsR0r31pMk7DndnQkBw2W8Op4U0wwUJMCfxBYlTegwZNYI/QFYcYhhPJgAA"
+  },
+  "graduation-12": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC06566.jpg",
+    "width": 2892,
+    "height": 4338,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoLABAAA4BaJQBOgMX65U3WqgAA/rdAB7DBkPcDirdW2p3g5bzrk1a0l3+NkdqoXbTvNsuE6hX3SHfpTrwvroKM1uMpXoMetxKMv5iI/rsWMSBJgtP4AAAA"
+  },
+  "graduation-13": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/DSC06619.jpg",
+    "width": 4608,
+    "height": 3072,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAsAA4BaJZQC7ADw/XLZQAD+9d2jUx86vE63PuvuhSzCl2xGERjT5/1Jvkpj+pcMQWOmgopqw2MRW1ohQNinHoAAAA=="
+  },
+  "graduation-14": {
+    "category": "graduation",
+    "src": "/WEBSITE/GRADUATION/SAK09108_1.jpg",
+    "width": 5049,
+    "height": 7570,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoLABAAA4BaJZQCdAEO+X70CIWAAP7075LIbMPf2pWBwNGi2O0mft6X33bqumkI52qsJUo0tsdP+LBNMnpuXB1awAA="
+  },
+  "promotion-01": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/2.jpg",
+    "width": 5304,
+    "height": 3976,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQAAwAA4BaJbACdAYwx2vvdHMWAAAA9W95zMfMnezt9CvnTyoMEYMsLBWl0np03mV/o+CNg45ky4RXAUySIvZJu6ROw2FE76pR7cOBYCue4PLyZvNsZkGhxHkPWudvGXflQHMFwAA="
+  },
+  "promotion-02": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/3_1.jpg",
+    "width": 5688,
+    "height": 8528,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoLABAAA4BaJZACdH8AGZdjm/lKdZTAAP7X+wiZVutgg700S2xE+acKQkTGlA6NkZSu2rfuGQ8N1aFjItyiKiSgFwS6+lMFGHCIYnJVQYrNzIEGKn0f/y3iUD0j4ZHHfYGw2niAAAA="
+  },
+  "promotion-03": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC02297.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoLABAAA4BaJQBOgCHhw7KEmIl4AP7b6CQqu3lOfM6jYLmWcBkrs92qhIyDAuSLIszTcKP/5UJoHee3I7lHohebuWpgAA=="
+  },
+  "promotion-04": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC02319.jpg",
+    "width": 7008,
+    "height": 4672,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsAA4BaJQBOgCP/QU+aQAD+7yxBPS2plUmM5FniI7rVkbXIdOWPCUd/0Pg38UXF6HB974AfpYRcoAA="
+  },
+  "promotion-05": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC02324.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoLABAAA4BaJQBOgCKUqNbWIk8aQAD+7DwPHhjlkQUX8lbKQGpEKaE+8i5Ge9NxxgdgsQuwmGcGukBKniqyhB3pSZsYOT1hqN71NhySLssMAA=="
+  },
+  "promotion-06": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC02336.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoLABAAA4BaJQBOgB6XQqoYIehkAAD+5oeTgf6V6XPNBFNSBP2jrxPTwaCBD0cFehe05by+L+8TCzWalgduhfK7QNConUlVRjLFMQli2LiUM52sGT7IZyHELmgAAA=="
+  },
+  "promotion-07": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC02343.jpg",
+    "width": 7008,
+    "height": 4672,
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJQBOgCHvOzHtAAD+2teZM2AMfJHddImlBwrPzlE3yxBCjnLGiDsllvV9WLdJbD5Hi4HR8+ifYZmYut9PvLd8/o/2QYAA"
+  },
+  "promotion-08": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC02358.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoLABAAA4BaJQBOgB0xfaeAAPyzoZsfVgVqzSDa4b55vKXgKQkLaMcpqVrCSIJJR+WXJVfX4zILwenAAAA="
+  },
+  "promotion-09": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC04984.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAsAA4BaJaACdADpLMf4wAD7/MELbbTudCQLPYqLv42ZfXNoF07KEmcMU9UKRUPbko2WA8IgxtpvYQvfkv7F8bkzo6PBi9zPigUbEb2AAA=="
+  },
+  "promotion-10": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC04996.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAsAA4BaJagCw7D6l9qWmwAA4lE4aI6gnd/sNPbeFip7onM4dH6D6C04PsfPho/e4UxeEH9IvZUc4Psiwg2uscionwO7ClFnksGPWCF9OqS4/Dq4zNujMAA="
+  },
+  "promotion-11": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC04997.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoQAAsAA4BaJagCw7E+01XBy8/0a15AAPz7v0Ve/sNflFBE60RtP2RrFKatWhGwWI4UNSQNbwUAdgMgl/coNciXx780rUvz+SknJPHriyw3DMz69V4Hh/0wAAA="
+  },
+  "promotion-12": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC05006.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoLABAAA4BaJZACdAYuHyAt28YHQAD+8tIWg/TQIfUnfdbE3E9nYT0VlEgPcNkJFpez/a/zoQ6qSsgjimNVkGXludvA7WjfCV52YFF3OWvrTWiE1gNASHVZtLft6mpT8r+FeXflUz+ct3yaghbLOsKMX74wTIAAAAA="
+  },
+  "promotion-13": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06765.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoLABAAA4BaJYgCdAEOYFCAAP7hDKzzWbb8/+YtLpKD/eXBJkISUH60SrWxO/CWSri8K8W9SubyDiWLRMkd+uDakr6IsqvnARnQAA=="
+  },
+  "promotion-14": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06777.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoLABAAA4BaJYgCdAELY9M9JaAA/vHe0k31Dnbqis1PytJ85fXW/+mhbtvrmplFGeUhdyMdBVIfyOWXOZrGWbydzVvsNAeLgU7KauYtBTxuovTAaAA="
+  },
+  "promotion-15": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06781.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoLABAAA4BaJYgCdH8AFxTLDF0jOAAA/u1g+GNBgelmiRaAYMLyOYqjpjd9++C4Jjv2rAZE+LgrzsGN7v+Oe8PDKZ4E3XFCAITyZgsuLH7/M3jnUcAAAA=="
+  },
+  "promotion-16": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06811.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoLABAAA4BaJQBOj+ADA3chS5YAW4AA/ueIO4pR48mRNmmJXM1pfReEummxd7Fg5cpGuVbMjpI0g3o/qFCjVCNY0s5mgkjsJwaRWtWQIFLmhYAA"
+  },
+  "promotion-17": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06895.jpg",
+    "width": 7008,
+    "height": 4672,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAABwAQCdASoQAAsAA4BaJS/7IwARYAD+7TGvVQ/NHKcAYwlm1FmDYzxGqEtZ5L1cBBa5V0iH0QAAAA=="
+  },
+  "promotion-18": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06917.jpg",
+    "width": 7008,
+    "height": 4672,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsAA4BaJYgCdADha9KzWAAA/f0lYTIsoNLEMs2rqEvLZWx+gduwpyLw3W4PLmBD1EgegbzpLNy5BXf9U2NhAT58AAAA"
+  },
+  "promotion-19": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06922.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoLABAAA4BaJaACdADdjPj7WvBjxgAA/fuz5+FKgTAMN3lhi1C+iTBRQwUigfR5W8BgDczSN+JYM985u2WWMNzgNugCj0R0Rwnp4gK+ow+umPC3XQ+ExLmgAAA="
+  },
+  "promotion-20": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC06930.jpg",
+    "width": 4672,
+    "height": 7008,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoLABAAA4BaJYgCdAELZFL5DkhvmAD+6o8nH2+vu8GIx3KO24ysDge5Lt9eN/egvSTj1T6RXy6LVPxEd0l76OX2aRmXECcIefG6RdN0UcAAAA=="
+  },
+  "promotion-21": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07770.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoLABAAA4BaJbACdAD6HRpMHkrIAAD+3/zdOhF9jJurcVEtmhJkTjF38mFr0rbOa+ho25y7UJKeuK6UXNbLPkDzOQQisMmKLmVk34HQtvmpsn0Fh3FIHXN4ZZy5Jx5s4btdlNNr9T8gBJAA"
+  },
+  "promotion-22": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07777.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoLABAAA4BaJbACdAYwTzFpFiehtgAAzhBfOk8eXEIX7E1Tt9gg7clUwjXn+Ty6X3fmVTmLFeRVHxIiT/cz59qHvAlDRK1rDDAC9C41lNLGryqdIY8KhI/mhojQeJXko8wt5b8QFS/85P4wAAA="
+  },
+  "promotion-23": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07786_3.jpg",
+    "width": 9056,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAkAA4BaJaQAD4Qw0tAT/WAAAP6t30/kdqw1nT5StqJNzGxrZdykGeoi4XqvKvIhoEUWylPjrE8Nv4MoBya4D2+TS+HOOC+Whyafma4JB0hD18AAAA=="
+  },
+  "promotion-24": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07796.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoLABAAA4BaJbACdADcjLdf5OHAAP4I5fcCHI4sXgPfCsOTC+bUdvsSDoqpDj8v2pDsR1WfwrPe28XfelN/oDDHxQ/cMBaeWKC3utwLczEuW0d8ChoHRYn14XyC1X+6ChRAAA=="
+  },
+  "promotion-25": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07817_1.jpg",
+    "width": 4550,
+    "height": 6822,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoLABAAA4BaJaQAAuXoD3meSgAA/vnE4r73/WqA7bNx1fN/MP/TMZshvNRj2oCEHY0DRz6h4w9X2+PmMYgm4IAA"
+  },
+  "promotion-26": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07827.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoLABAAA4BaJbACdADdiey8SyCAAP7yhfTUCkqI2ikY+tAbSe7z/ki2xPVbf0F2T4bTjCX2CZwhvO/+1D5p0fl/tP1T61izKlToNAri++d2sFpEM0UovcF8ymsGYAAA"
+  },
+  "promotion-27": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC07838.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoLABAAA4BaJbACdAYvNzV1cVXiaWAA/SrRjvYbCGJcbTVzY3O2tTZR1L5YjjaSawaAK42oEDOe7GUogN/doE8c0kvuJhLDV4Npgs9NFNnlvu6HiH33h5Rmx0SucfAwwy7umwtVHhvvDSoAAAA="
+  },
+  "promotion-28": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08151.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoQAAsAA4BaJbACsAENw6q/M1dCAAD+85CSqbLbO/yyk5ao9kInpeXJVsToY59k5CC4+ZLRBMJOGhGbfBcb6scOAaAAAA=="
+  },
+  "promotion-29": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08163.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAgCdASoQAAsAA4BaJYwCdIExgrDAK7lzzYeCwQAA/vJaPjNqVJadyGvde7xekd+bV1K4XlV44jHAi5Z8q/J+Q8ZtoSo/atnPPpYwaW5/1/PLOp2ZP1Ge1weIwxW/kObVM/y/8AA="
+  },
+  "promotion-30": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08168.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoLABAAA4BaJYgCdAYuvn0vdXIlDkAA/vHqbH+56hhtsPVd/w6qux5noRjqcVxcfpgJpe20JdIhugs/bmv7lM9H9R8qsckoTc0TqaqCSAORMMpr20hNkYLRXrsQiVwidptpmGcPAAA="
+  },
+  "promotion-31": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08179.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoLABAAA4BaJZgCdAYvNnZFYss3SMbYAP7ijHtkakWvn82esJggldzf+WlZVvjjRE3K1A2luW+YJqsHU3FZqYafxxnSXY8lFGRX1HUWu16UU4T7og7nkEIxo/l58k3++lAwIcyu4AA="
+  },
+  "promotion-32": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08297.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAsAA4BaJYgC7AEPA9Id/MlAAP7rU5B1Oi8jj6Tft6LeaE8xOaaycjmBgzPv8WKvVKXy3Y3mCmGgQjhUiHC9LmvBq4AA"
+  },
+  "promotion-33": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08347.jpg",
+    "width": 7749,
+    "height": 5169,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAsAA4BaJQBOgCKUTFje5gAA/mbayvXhvK/qcfDtcPDWU3EYJlJOTlG+svN+87oLB65oJfDDDKtXLV/p4Ria4fP5Bzz6UZbyZbz0QBG4aYlbZDOXAAAA"
+  },
+  "promotion-34": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/DSC08355.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoLABAAA4BaJYwAAudQJDd44AD+85NtILUJ6rXD0M/53OF8lJmVlFeFcxu22dYeRia6yrrygLJgPTv/E+nYEAAA"
+  },
+  "promotion-35": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/IMG_5474_1.jpg",
+    "width": 3505,
+    "height": 5257,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoLABAAA4BaJZgCdH8AF8rKdXkAAP7zM7/SA7fuUhGesVqJvOuFuaMA7MYUJGvPW9a3wIQZdVYXebOwhK1EWHc9ClaYT/7k9a7+e258k3wA0AAA"
+  },
+  "promotion-36": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/IMG_5496_2.jpg",
+    "width": 5472,
+    "height": 3648,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJbACdAC3gsehu1KAAP7zJjU1U1HOCDpMSUzTIq5dGpTNahyJcEPvIaTZjUbGF0DRcNH4N8uVuIQJj/y/I7jdABTfo5IfwpKOvbgyrtrzHLTvu1PIh4AA"
+  },
+  "promotion-37": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/IMG_5519_2.jpg",
+    "width": 7352,
+    "height": 5208,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAsAA4BaJbACdADc+WPMMIgA/vGjkhDb9nxDXSTddtPPhssPv0eWjhunJIJRgQCYTW/vY9iUdWz5OpLwSbOVp1f0uTq35fX7levmSd2h2fW4r2AAAA=="
+  },
+  "promotion-38": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK03691.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLABAAA4BaJbACdAD7j2mCk5SsAAD+t8TyCc0wmibwXVL/OyYP720VggfRWxTcxtOkbUbJrklEXNoNmfuaXe2GuA3DEqKzMFb1PyHZOWZE7LvwztI4DBP8fqP0wAAA"
+  },
+  "promotion-39": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK03694.jpg",
+    "width": 7741,
+    "height": 5163,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQAAsAA4BaJbACdH8ADklZXJgAAP7YHSyZzWkuyXk+Uk/8oLR5dr3O4Yp05DoLUBfcKkiSqYvC3xUIBU7JyIK+8FC/solIrl4QS+pxs4OLcu0JtYHh9VvLAdm5cZ7/sZj0v2+9sVCgAA=="
+  },
+  "promotion-40": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK03701.jpg",
+    "width": 5207,
+    "height": 7806,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoLABAAA4BaJbACdADHl8h0hmfhoAD+130P7yp3l8Lu8w8NN/K0mHbgUJFlOmydUrx8DW8T7EKB2vF1BqZ1s/fVbRiY7QwLnJoFZtf+hcy+NiljdX+srfzPvQB/sK6AAAA="
+  },
+  "promotion-41": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK03702.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoLABAAA4BaJbACdAYt9geh7tj6wiwA/ust5KbWnYg2fBmLcymIuUpS9HSVJ3L+b9eapNf8r0rqA0bX7oaa2lyQYEbl7cUuZKiXLRTIdKfTWntstrH8XB/c+9AH+FH2AAA="
+  },
+  "promotion-42": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK03720.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAQCdASoLABAAA4BaJbACdADdrNFLgAD6l8b4GFDXAj8in60j9qNCc+EG0Ett1aBhiZURS0aqVYNKAN6EcYmLlEDvSYHYMB5MNnLSft9yT+HVk68pqE/YzKGcjp+pSGQ4fncbUWm3yg2WvgAAAA=="
+  },
+  "promotion-43": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK03731.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoLABAAA4BaJbACdADdLAs1h0M8AAD9TBP9qfOXkjx4gZEMkInO+iFu+B86iZrQtH31PpEpbHbvjzLHdUJwOgUdZGgPqa9F5lrrdYT3KeuhugR/zzlXzC4Z5C1Y+Pjx87mLy/eYg9v3P+58SAAAAA=="
+  },
+  "promotion-44": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09622.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoLABAAA4BaJYwCdADdcr2YBQ67NwAA/utnTLFjfUe6lHtbowG00iLVUT4UMZXQFdiCcn4jMQ8LaYaZ4BUQOpQW/tygKD0dLalNspgLF8wr1yeT+8WigAAA"
+  },
+  "promotion-45": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09633.jpg",
+    "width": 7690,
+    "height": 5129,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAsAA4BaJYwCdAfwBOkV/OUZgAD+6343STErem8ARSsG2u9i1KX8VyDwGtj8mcVx/GySzNztSJg1isJFHoeab9oDwCkBhLo+dg4quAA="
+  },
+  "promotion-46": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09649.jpg",
+    "width": 5062,
+    "height": 7589,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoLABAAA4BaJQBdgBrh0ECHOcAA/u5j7E2gfjICb6gjZ2nT+78xZL3ibOa3G4hwHTGNbY+yfjdSFpmKIqECnNXVGtWAAA=="
+  },
+  "promotion-47": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09670.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAQCdASoQAAsAA4BaJQAAN0BjHIAA/s9qLvgMFeo1dpCNk4sOjJbqpn+AjTCOAvV3cDkhpvFX040JSHKJCSmtbrNZGJAZbbiubUSHFN49sSgwAAA="
+  },
+  "promotion-48": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09682.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsAA4BaJZACdAEVhw3TCDAA/s3gCjJiB3eNYOjAHuZSqoIrI0S6WldGYiBkVn/l2X7Q6LTas9FNZldpsJmgAAA="
+  },
+  "promotion-49": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09685.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoLABAAA4BaJYgCdADzg0eyUAD947anXpm5FOEN0sqRdIKHDWIvcp2Vc8lhJ9nbzaBuJjBjMx8/10fc5QE1lt5RfH+iaz3L5pDBnnxRs3Nmwln6AAA="
+  },
+  "promotion-50": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09713.jpg",
+    "width": 5165,
+    "height": 7743,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoLABAAA4BaJZQC7ADQLftXAAD+tqjVRXTdQRRdd66ERscrYw6gEYe2u6OSlM0ySf4G7PHUojjbRdhQQuA8BtdItXcMOgfiWPvB3u4cLxwcyDALyKyAMqAA"
+  },
+  "promotion-51": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09726.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAAsAA4BaJQBOgBhqS+0gAAD+8IEKaen23j587ly4CES8p6dOfqMyewpN+VTP//fTvalKURYlRDer3rSXW7ZiYr1SgAAA"
+  },
+  "promotion-52": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09727.jpg",
+    "width": 3448,
+    "height": 5168,
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoLABAAA4BaJZACdADZqMYMAAD+W9bft68w4KEK8vHvYqzukTSwV7dTcUdYUCmuXUBhjAdTK1lEiUxJLE/j6/jpLoZ7DUCxMqGoAAAA"
+  },
+  "promotion-53": {
+    "category": "promotion",
+    "src": "/WEBSITE/PROMOTION/SAK09774.jpg",
+    "width": 7752,
+    "height": 5171,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAsAA4BaJbACdIExFEdChRazQAD+uC2Awe5u+nO9DrSC+m5hgN3jp6mvoncoJS//wl4snbS7q8G1c2KWhfkX06Ds44ATJoKke4FRzxTVlQHMVfY1AKXG3Wc2k1Q3d8MiKAAA"
+  },
+  "wedding-01": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC1978%20copy.jpg",
+    "width": 6000,
+    "height": 4000,
     "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQAAsAA4BaJZQC7AYu5gLWoFInpWUAAP7wO1CU4ZLgzxlcyDFS7XoRoCB2UnWdDFIT4ePNZm+dxf160DgIJLYMcUbBPge4uSMVzq0zmMlAbH94Oc2P0nRk5gkxzC3woyBIeicAAAA="
   },
-  "homecoming-arched-door-portrait": {
-    "width": 2400,
-    "height": 1600,
+  "wedding-02": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC2008%20copy.jpg",
+    "width": 6000,
+    "height": 4000,
     "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQAAsAA4BaJYwC7AYwTnXQGNPxBgAA/u2pu0QXJt5bM498uITnOPVI3bRXEK9co8MWDbXdMFcby+v/Evx/mQGVYAnPk877vnVHDLR0Sub/bfv2W3uzLtDlQAalp0kFAHPYizAA"
   },
-  "homecoming-bride-glass-door": {
-    "width": 1600,
-    "height": 2400,
+  "wedding-03": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC2012%20copy.jpg",
+    "width": 4000,
+    "height": 6000,
     "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoLABAAA4BaJYwCdAEXxgxtgAYUAAD+tfBXlyHbD5CtrW/J26JjVxAwbNrr6IvKx3kswJh5piNe3xiSszr6k6SuC7AC94zVIJGMoYr0yTHlVlWrt+3tAAAA"
   },
-  "homecoming-arched-doorway-kiss": {
-    "width": 2400,
-    "height": 1600,
+  "wedding-04": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC2018%20copy.jpg",
+    "width": 6000,
+    "height": 4000,
     "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAA4BaJYwCw7YvhSHc3IWAAP7zOCfYWnY/x3E6wTSQhClk8fw7mEjP5pCvlcBswfYTZB4g5lNtwaMi8qch8a0Y/x3lnxc5s/o/LZDpb46jRHqujwroAAA="
   },
-  "homecoming-yellow-art-wall": {
-    "width": 2400,
-    "height": 1600,
+  "wedding-05": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC2049%20copy.jpg",
+    "width": 6000,
+    "height": 4000,
     "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoQAAsAA4BaJbAC7AYvDy4X69nIj3kAAPw8ZuIHSatB2Jeg6dhN3K1JA15r9qiHG/hAfszKDowLJJ61FeOMDtYwbOovk7e74S0ozkl3TBSofOsCyDv2N7kFK7oe7As1/Pi3qVRGb3hO/PzTggAdWy5yqkAAAA=="
   },
-  "homecoming-balcony-kiss": {
-    "width": 1600,
-    "height": 2400,
+  "wedding-06": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC2061%20copy.jpg",
+    "width": 4000,
+    "height": 6000,
     "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoLABAAA4BaJbAC7B2gAoBoH7YAAP7JtrMtwcRFv2SMm4d0yEvhRkXCUptPuj1bsCp2EbBrzJlVBI2tcSb74IbjrWpJhiygQVtIhob+PWXcnpMrR9/MqZukniyHbx8hxn6V3+AA"
   },
-  "homecoming-black-and-white": {
-    "width": 2400,
-    "height": 1734,
+  "wedding-07": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/_DSC2076%20copy.jpg",
+    "width": 6000,
+    "height": 4336,
     "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAwAA4BaJaQAApOmkPW+DQAA/mDK6JeIh3HziaOiJfFNcS1LHrl/1unriXqe2+pxdbDzi4qWOZ8fNY0YWile+soU0CRFba0Pl+WW02HoqcuJMgmqRFAAAAA="
+  },
+  "wedding-08": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/1.jpg",
+    "width": 5140,
+    "height": 7709,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoLABAAA4BaJZACdAEVYm5qdE7a4IWAAP6qEMfLoV3DIWpFpw5ktBbBkHT4rysFT6v9GIRYfROBxXEcLWYB6tar3rN7iOC69gkzl2uOwTELbzaLGsniNifqHAAAAA=="
+  },
+  "wedding-09": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/2.jpg",
+    "width": 7008,
+    "height": 4672,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAsAA4BaJZgCdADdhxezxTgAAP6mfjOU5VN1Dx6ckth5srIsXsTz1KxwKaeMvPErn5kEMhSJxwa2Xu1OROiJbeWhxhzud9gSWssVOAAAAA=="
+  },
+  "wedding-10": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/3.jpg",
+    "width": 8342,
+    "height": 5564,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAAsAA4BaJZACdAD1GHpwF5P0AAD+ynGOOMW+LcUKT40a1uLddtpD9lYf2jZAprG21oc8NsRuRelXmi1LP1zgjGV3ZSzuVAzqDCH0zUBv4pNvs9RSsJcPk5wni+61kgwZe48FPwn4z9YQAAA="
+  },
+  "wedding-11": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/24.jpg",
+    "width": 7712,
+    "height": 5144,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAsAA4BaJYgCdAYwxv6bzC4AAOJ+oKLRq8pgKiJx6OUQ9tMfSiT8O0Q+fAWJjKYLP9SrADsrTLuQ7YAe8leRReQFWPqu7BcHQxl0Snk/uRP3wDqkGo6wLoAAAA=="
+  },
+  "wedding-12": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC_9211.jpg",
+    "width": 3872,
+    "height": 5819,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoLABAAA4BaJQBYdh6ENKrGgAD+1ilos/cNY5idJah1veG7rZrLB1fFXsVjdHgcW2nr84qHL4Ra1DIKghVT814AAAA="
+  },
+  "wedding-13": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC_9423.jpg",
+    "width": 3452,
+    "height": 5186,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoLABAAA4BaJZgCdAD7FjZyfhfJUgD8/XrkPNtgZ6VlmDQRbVAu3kUKFRGN1/Kf+ESEsRRL9wgvMClEL/SvPKh85GUJi5Csma8nb2lF6DtYimLMOBzioH3CswtQAseYu4/5x/vUMwAAAA=="
+  },
+  "wedding-14": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC_9792.jpg",
+    "width": 4024,
+    "height": 6048,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoLABAAA4BaJagCdADdKv2hfdvnnIAA/uXUmU9yCWVaj+SNfU2IAHt5vItZF56FjgWiyhwK7cuke30QtA6Ww642D/fZdlHGttgw7CFhQpteTIPAmW1ShZzGAAA="
+  },
+  "wedding-15": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC_9888.jpg",
+    "width": 6048,
+    "height": 4024,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQAAsAA4BaJQBOj+ADMky+MMeujzgA/u2sNAq3mR5kR8FhKLDMdt1GEUQrHeiKh/O/f7dgu6JAyxGoGZMiBlYXVcaS2qd7jiJolQD1ogQcD9wdY0/lY9Z1Poha6ACHUsyKuQfk2OqGAAAA"
+  },
+  "wedding-16": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC_9898.jpg",
+    "width": 6016,
+    "height": 4016,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAsAA4BaJYgCdH8AEpdOCfLjAAD+yP4yu/hPMCEmNJJiqDw5uqtV1fyIXmlLk4UFgpo44mfARj0QfBPUurT/6xWpmhch/ZU57fV7HLFWqzv5AAA="
+  },
+  "wedding-17": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC00039%20copy.jpg",
+    "width": 3852,
+    "height": 5778,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoLABAAA4BaJZQCsAD0ofgrM6gA4n7JHt9hbBRnpqCEHAV7MM8qwXZxcFO/sz1kf3eHon/dPxEjSp003oynWXRiEKJ7azt94LHY2iCQyOBZJJevWQKOjRH22h13AAAA"
+  },
+  "wedding-18": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC00067%20copy.jpg",
+    "width": 4000,
+    "height": 6000,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoLABAAA4BaJZQCdAYtfaOgQAAA/gYpcc+QcujxLqVJ7PP4C9jKh7oc7r70A5bJx+kb/UInd3xFT4XOYM2kA9K8EYPNknNotx3hXbdrnkdkP3BFGdbp033VEeLqGbwA"
+  },
+  "wedding-19": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC00100%20copy.jpg",
+    "width": 6000,
+    "height": 4000,
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJQBOgCP/CEsScAD+t/DR1aPgHRAsmNyXgoOi4jRUD3LF5kKyzOrbLSx2wpTyP1g1CfSHYxKo1mduuF01tIvZ0wMQLIAA"
+  },
+  "wedding-20": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC00263.jpg",
+    "width": 3927,
+    "height": 5891,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoLABAAA4BaJYgCdADdYreuFcRwAAD+9uVkpInvBL3/gImxLlqLbAzV3a5cF37DlS6xiXCrfbEMLEaVY7UUMIJqPhVXkNY/ZbYynm6Fk2XwD8qkoBjQUAAA"
+  },
+  "wedding-21": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC04671.jpg",
+    "width": 7004,
+    "height": 4672,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAA4BaJZgC7AEPEArHYLgAAP7vhzpXhVKBGL04fpPhP+tH/OVNMbol9UQbVvyDIDjbBtrBI5Gm0xCiIcf1zWLbm2NebSwhvfgJTbdZMXP2gAA="
+  },
+  "wedding-22": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC09403.jpg",
+    "width": 5052,
+    "height": 7574,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoLABAAA4BaJQBdgMYstQoJXB54AAD+6kzU4MZZlvtcXU6r1r0j6FQCqa3/EirzIHQPj2wKdvdfK59cX36+NatoCNF2N3FXV63vOL9M8khM9XkNrtddoykf5LF7Wdn2hCvMu+JNeqrszWpAAAA="
+  },
+  "wedding-23": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/DSC09418.jpg",
+    "width": 4352,
+    "height": 6525,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoLABAAA4BaJaQAAudRfQGAAAD+9iu35rLJGnpS7BQ1wzXfMjf6+ASLQ2NfkrJmkHBxKp32F96G+EvKVYHknZK9aAA="
+  },
+  "wedding-24": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03521.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAsAA4BaJYgCdAEP1Eng6SAA/vJ633iFe97ZrgaEQZgm//lV8/iBH9TcXB+bRNz7DP6fpEaNas5gzjjsFcogs0GqCT058M6yb7Xahng1mfjc+/0AwAAA"
+  },
+  "wedding-25": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03589.jpg",
+    "width": 5264,
+    "height": 7892,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoLABAAA4BaJbACdAYxFdDSZ85vnCAAAP71Byte77X20xET8T9j+FYoqQUEYANwAWXXZ510d94DNgOnvFfPZ/SqFJMrr8J7eIcjSR8IqWuEiN6gOHIlJiQ2grnouniZg9P6XRj59b930SQAAAA="
+  },
+  "wedding-26": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03673.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoLABAAA4BaJQBOgCL9HpCpJy0AAP7eLGIY62kOf3I+i3An+es/8ndLhTntEy973TX+oKnDtBmh9zA5+TyxXbRFlvDa1L/vGFwZ4DcKQCqoIbAujYWj4KmfhhHgAA=="
+  },
+  "wedding-27": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03683.jpg",
+    "width": 6378,
+    "height": 9561,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoLABAAA4BaJYwCsAEe34JkOnC7AAD8M7R3eWRoNetSo0PozU5K9/WokTTSpa+Hgk4WUNIcZ9gMR3iTEcBCY8jeAh83faMi54WM1vYTXmhL+g7j4AA="
+  },
+  "wedding-28": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03684.jpg",
+    "width": 4853,
+    "height": 7276,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoLABAAA4BaJbACdAYtBkzy5CVAAAD+9vG/nhvB73Cxv9t+263MDbKfqsm15N/kYlOQdWnizG3wMICgDO1TO/kafdy/U/eo8K2KJmrXRGZkRWxag978PlFVDw4nyf292TgRuGnP7QAAAA=="
+  },
+  "wedding-29": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03700.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoLABAAA4BaJbACdAEPCguOwL6YbAAA/vbgnG3DAmD+KyFk5Q2ncIRCU7tT5Dp3lsyASSHOPLWYNU7he/9775BtaycSac4enuEROc+gDPle/gvJqAUz2pNE8EnISe5NMzwAAA=="
+  },
+  "wedding-30": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03728_1.jpg",
+    "width": 5747,
+    "height": 8616,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoLABAAA4BaJZQC7AEQXtq3EYIG4AAA/QIac9f/4Y7HcBqEtgj4mNT7P5qnmxsftn3QFFxrEyLOH1NRV9UcHUD7xK+RZEmoZdrUdhpx4NYPEWhhZUuyGIAA"
+  },
+  "wedding-31": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03744.jpg",
+    "width": 7952,
+    "height": 5304,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAsAA4BaJQBOj+ACU2NKa+ogAP7mhvfRRZpl3Y1n7dU4IWGVe1K/XDsjJeYV7WxLi7zkhhICJQYvbFlFKTZsaYsI32JmG8vwSAKAOJ/wAA=="
+  },
+  "wedding-32": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK03777.jpg",
+    "width": 5074,
+    "height": 7606,
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoLABAAA4BaJbACdADdFLV0AP73vmRqwiIdqLzClxe4H0UO45e7aUK2r0gGipw3u7M3HUE15zLD6Xfj1SsGdx3QPj+GuiTTSYZ7vb1m8HJs/U1t4aAAAA=="
+  },
+  "wedding-33": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06124.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoLABAAA4BaJZACw7Yu5bXz8OtGI+AA/tD2iB+bU9hnTOuUyLih31RSNbCsIbMk2Js77ly24SKZA9xiPO6XVjFY6cFUC2QOc1fDUcicWm2UoQAA"
+  },
+  "wedding-34": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06160.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoLABAAA4BaJQAAU5Qsg7lQAP7reHpoTm4gJI08r7tDJHnH7xFyLY5JtEB2IsO3ELH4OMtGwrrlp7JkJdVBconMOpqaHKWALpQaoAAA"
+  },
+  "wedding-35": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06172.jpg",
+    "width": 7834,
+    "height": 5225,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAsAA4BaJYwAAeJIovSIwAD+7yBIYJX/aKQZ7zdzB4PwIDDfclYQal8NFW63gX0h4Cle5hTFgYG6dUvfZ5RC6DcIeE97D/8wS3R9tNP5HaAkAAA="
+  },
+  "wedding-36": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06265.jpg",
+    "width": 7768,
+    "height": 5181,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAsAA4BaJZQC06DPkw/jKAAA/q0hCht1ZGWE/ozB5NWa5y/BEa2ZPll6vjrGqnL+bZRIGTR6nRUlWr/96H2WFgAvjt/0eIUVvegHgAA="
+  },
+  "wedding-37": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06293.jpg",
+    "width": 7892,
+    "height": 5264,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoQAAsAA4BaJZwAApBcBxQAAP7BW3Z3F+kh76N4VEwuQ9XmSE355yT0x5bp6mIAZU3Q9bx4rZzrJVAol9AnYd4fpv47cNQgAogAAA=="
+  },
+  "wedding-38": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06327.jpg",
+    "width": 5101,
+    "height": 7648,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLABAAA4BaJZQCdAEegzBvzXjYAAD+tAmP/EYOhOpdHkw3U5ojRRtXZJk5Gs2xJM0OH3QDs2WQlhhNVsKVtrvFa31cPX97zdxQndLADEk0agoAQ6w5JWAGRrHvSwAA"
+  },
+  "wedding-39": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06556.jpg",
+    "width": 4957,
+    "height": 7432,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoLABAAA4BaJaACdAywDavFPOBMQAD+rfLoLksf9f9lJYbJshKxvJEAOK60EMBn7v0yuRV3DeLA1hXICmMXvepHbM5JN3tm9zz4nIC7P35Ny+1WUO5Aos8Gek2RRXtv4GAGYAAA"
+  },
+  "wedding-40": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06559.jpg",
+    "width": 7666,
+    "height": 5113,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAA4BaJQBOgCPyA4i2jTyoAPeM0vhvGk6JIf0qdD7KQPLfd0lyqco/zPGGAnh++cbmul7WEqhUM/j2fq0V4nhHAWYkeApKxZDwpeYv/IRaxkxSs8XwAAA="
+  },
+  "wedding-41": {
+    "category": "wedding",
+    "src": "/WEBSITE/WEDDING/SAK06699.jpg",
+    "width": 5304,
+    "height": 7952,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoLABAAA4BaJbACdAEO6IJsegdAAP72RMuQ+Wg7HZzQRlu4OeJOR6OcSM+ngFBqUEE81frmVx9fI6fCEZW8rI6DJThQSr+G6fkoX/RmmXnA85Y+khs1+pxz4dfz/wAA"
   }
 }
